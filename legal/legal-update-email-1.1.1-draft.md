@@ -12,7 +12,7 @@ Hello,
 
 We are updating Wishplace's Privacy Policy and Terms and Conditions. The proposed effective date is **[EFFECTIVE DATE TO CONFIRM]**.
 
-The main update is the introduction of optional Wishplace emails. If you choose to enable them in Wishplace, you may receive one weekly summary combining your selected weekly activity, new suggestions, local news and local events, as well as selected real-time notifications such as matches, interests, messages, listing expiry, Credits or Pulse. These emails are optional and are not required to use the core Wishplace service. Product and marketing updates are separate and will require their own explicit consent before they are introduced.
+The main update is the introduction of optional Wishplace emails. If you choose to enable them in Wishplace, you may receive one weekly summary combining weekly activity, local news and local events, as well as selected real-time notifications such as matches, interests, messages, listing expiry, Credits or Pulse. These emails are optional and are not required to use the core Wishplace service. Product and marketing updates are separate and will require their own explicit consent before they are introduced.
 
 The updated documents explain that:
 
