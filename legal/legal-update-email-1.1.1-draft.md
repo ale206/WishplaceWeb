@@ -12,14 +12,14 @@ Hello,
 
 We are updating Wishplace's Privacy Policy and Terms and Conditions. The proposed effective date is **[EFFECTIVE DATE TO CONFIRM]**.
 
-The main update is the introduction of optional Wishplace emails. If you choose to enable them in Wishplace, you may receive one weekly summary combining weekly activity, local news and local events, as well as selected real-time notifications such as matches, interests, messages, listing expiry, Credits or Pulse. These emails are optional and are not required to use the core Wishplace service. Product and marketing updates are separate and will require their own explicit consent before they are introduced.
+The main update is the introduction of optional Wishplace emails. If you choose to enable them in Wishplace, you may receive a summary combining activity, local news and local events, as well as selected real-time notifications such as matches, interests, messages, listing expiry, Credits or Pulse. The summary is targeted no more often than once per seven-day period, subject to delivery limits. These emails are optional and are not required to use the core Wishplace service. Product and marketing updates are separate and will require their own explicit consent before they are introduced.
 
 The updated documents explain that:
 
 - optional email digests and real-time feature notifications are sent only after you enable the relevant preference;
 - you can change your preferences in the app at any time;
 - every optional email includes an unsubscribe link that stops its related email category while leaving other choices unchanged;
-- Wishplace uses Resend as an email-delivery provider for these communications; and
+- Wishplace uses Resend as an email-delivery provider for these communications; separately consented Wishplace news, product updates or marketing emails may use Mailchimp; and
 - we process limited delivery, bounce, complaint and suppression information to deliver emails reliably and honour unsubscribe requests.
 
 No action is needed if you do not want optional emails. They will remain off unless you choose to enable them.
